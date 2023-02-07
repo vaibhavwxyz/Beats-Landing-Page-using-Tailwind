@@ -1,6 +1,6 @@
 # Beats Landing Page using Tailwind CSS
 
-### Live Link - [https://fsjs2-tailwind-project-06.netlify.app](https://fsjs2-tailwind-project-06.netlify.app)
+### Live Link - [Click Here](https://fsjs2-tailwind-project-06.netlify.app)
 
 ![output1](https://user-images.githubusercontent.com/73052214/216976130-f2adcfb4-1a63-491a-826a-0240ca7e30ae.png)
 ![output2](https://user-images.githubusercontent.com/73052214/216976254-1589b6aa-c94d-48b9-8c19-76af749c19cd.png)
